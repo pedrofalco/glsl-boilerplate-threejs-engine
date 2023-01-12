@@ -1,4 +1,4 @@
-## glsl boilerplate threejs engine 🎴
+## glsl boilerplate with threejs engine 🎴
 
 `ES`
 Esto es un simple template para correr shaders en la web. Un problema que encontré es que generalmente los shaders, ya sea de manera local o online, suelen correrse con algun visualizador de shaders. Cuando una persona inicia en el mundo de los shaders, no hay un workflow muy claro para poder correr un shader pero a su vez poder moverlo por la web a gusto (ej.: genero un shader en algun editor de shaders online pero luego quiero visualizar ese shader en mi propia pagina web o quiero integrarlo con otros tipos de datos). Este sencillo boilerplate es para eso.
@@ -18,7 +18,7 @@ This is a simple boilerplate for running shaders on the web. One problem I find 
 
 I use the [Three.js](https://threejs.org/) environment instead of Vanilla Javascript (i.e. JavaScript without any libraries) because it is much easier to setup the shader. Not so much the initial setup but later, when the program starts to get more complex, it tends to be very cumbersome to manage uniforms, buffers and data types. The idea is to keep it simple.
 
-### Quick Start with Node.js & npm 🚩
+### Quick Start 🚩
 
 To use this repo simply download or clone the repository to your computer.
 
